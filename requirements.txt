@@ -1,0 +1,2 @@
+flet>=0.22.0
+flet-webview>=0.1.0
